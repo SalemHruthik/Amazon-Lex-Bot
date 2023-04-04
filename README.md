@@ -49,6 +49,25 @@ After you complete this step, the console provides a callback URL\. Write down t
 
    1. Choose **Facebook** under **Chatbots**\. The console displays the Facebook integration page\.
 
+Step to step process screen shorts
+![image](https://user-images.githubusercontent.com/110277557/229875672-579db591-9272-45b5-821b-91f1cd433dfc.png)
+![image](https://user-images.githubusercontent.com/110277557/229875709-7cb823e8-944b-484b-bfde-5e6541779bee.png)
+![image](https://user-images.githubusercontent.com/110277557/229875794-c7bf3430-5567-441b-aa19-0ea961019307.png)
+![image](https://user-images.githubusercontent.com/110277557/229875822-e59e5325-8a11-427f-a8c6-ec6260f57ee0.png)
+![image](https://user-images.githubusercontent.com/110277557/229875847-7b2d68cd-e69d-4602-95b5-851cdf966e87.png)
+![image](https://user-images.githubusercontent.com/110277557/229875860-a3a210e7-5cc4-45cc-bfbc-2fae9dc87e27.png)
+![image](https://user-images.githubusercontent.com/110277557/229875884-ba4ae34c-6f36-4b72-9b2b-afd358913418.png)
+![image](https://user-images.githubusercontent.com/110277557/229875909-f1810989-9cb1-44e1-8d09-7b43506dda60.png)
+![image](https://user-images.githubusercontent.com/110277557/229875932-384c433f-daa8-4e76-ad3b-5e44718ed91a.png)
+
+![image](https://user-images.githubusercontent.com/110277557/229875962-22686040-f20f-4063-a163-b9a4e7b93b56.png)
+![image](https://user-images.githubusercontent.com/110277557/229876006-91964f63-cb3d-40a7-90e9-39575981174a.png)
+![image](https://user-images.githubusercontent.com/110277557/229876046-d98caf12-2b91-489c-a0bb-7a575521e5e7.png)
+![image](https://user-images.githubusercontent.com/110277557/229876080-e9f877d6-9480-48b9-875b-e8976b450c30.png)
+![image](https://user-images.githubusercontent.com/110277557/229876110-dc7afe6e-9941-4b65-aac0-9f928d3eb91e.png)
+![image](https://user-images.githubusercontent.com/110277557/229876134-d82608b6-6dcd-4e81-b20a-d56ec838aca7.png)
+
+
    1. On the Facebook integration page, do the following:
       + Type the following name: `BotFacebookAssociation`\.
       + For **KMS key**, choose **aws/lex** \.
